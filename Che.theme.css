@@ -1,0 +1,16 @@
+/**
+* @name Che Theme
+* @version No Update
+* @description Created
+* @author CheeseBits
+*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Japanese');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+:root {
+--roundness: 50px;
+--main-color: #f2879a;
+--hover-color: #f2879a;
+--home-color: #eeeeee;
+--shadow: #00000066;
+
+}
