@@ -4,6 +4,7 @@
 * @description Created
 * @author CheeseBits
 */
+@import url('https://github.com/NigerianScammer/Che/blob/main/Che.theme.css);
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Japanese');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 :root {
@@ -15,4 +16,6 @@
 --main-color: #16356d;
 --hover-color: #1c4faf;
 --home-color: #eee;
+--custom-font Noto Sans Japanese
 }
+
